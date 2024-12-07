@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.csv
+*.json
+uploads/*
+!uploads/.gitkeep
+# Ignore all credential files
+*accessKeys*
+*.pem
+*.key
+neural-truth-*.json
+.env*
